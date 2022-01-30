@@ -1,28 +1,28 @@
 # socket.io-chat
 Clone the project
 
-  git clone https://github.com/phamthanhlonglhpnd/socket.io-chat
+      git clone https://github.com/phamthanhlonglhpnd/socket.io-chat
   
 Go to the project directory
 
-  cd mern-chat-app
+      cd mern-chat-app
   
 Install dependencies
 
-  npm install
+      npm install
   
-  cd frontend/
+      cd frontend/
   
-  npm install
+      npm install
   
 Start the server
 
-  npm run start
+      npm run start
   
 Start the Client
 
-  //open now terminal
+      //open now terminal
   
-  cd frontend
+      cd frontend
   
-  npm start
+      npm start
